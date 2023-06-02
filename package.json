@@ -1,0 +1,17 @@
+{
+  "name": "study-04-file-attributes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tsx": "^3.12.7",
+    "typescript": "^5.1.3",
+    "vitest": "^0.31.4"
+  }
+}
